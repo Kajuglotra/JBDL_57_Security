@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: debug
+
+
+spring:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/jbdl_57_minor?createDatabaseIfNotExist=true
